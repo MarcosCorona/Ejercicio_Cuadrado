@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ejercicio_Cuadrado</string>
+    <string name="titulo1">CUADRADO</string>
+    <string name="dameNumero">Dame un número: </string>
+    <string name="calcular_cuadrado">Calcular cuadrado</string>
+    <string name="_0">0</string>
+    <string name="Calculadora">Calculadora</string>
+</resources>
